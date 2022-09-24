@@ -1,0 +1,120 @@
+{
+  "main": {
+    "name": "Moha Dmn",
+    "occupation": "Web3 Pros 🦊",
+    "description": "I eat, sleep and breathe React Js & React Native",
+    "image": "https://mohadmn-2020portfolio.netlify.app/images/Avatar.png",
+    "bio": "😀 Hi, I'm Moha, Front End & Mobile App Developer @Web3 Pros 🦊 Top skills: React | React Native | Typescript | Firebase | TailwindCSS | Material UI | Figma || I use Web Technologies Daily to solve Business problems and create a high quality user interfaces. My preference is to collaborate with people from different backgrounds to achieve significant long term goals",
+    "contactmessage": "If you need a website or mobile app, you can reach me!",
+    "email": "mohammeddemmane@gmail.com",
+    "phone": "+213665455773",
+    "address": {
+      "city": "Dubai",
+      "country": "UAE"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "https://www.linkedin.com/in/mohadmn03/overlay/1635502674452/single-media-viewer/?type=DOCUMENT&profileId=ACoAACXkmeQBOSlTPkvaK0SU9Jbca0FnMaUUlcc",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/mohadmn03",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/mohadmn03/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/mohadmn03/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/mohadmn03",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "USTHB",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "Not yet (2023)"
+      }
+    ],
+    "work": [
+      {
+        "company": "Web3 Pros",
+        "title": "Frontend & Mobile App Developer",
+        "years": "April 2022 - Present",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs / React Native",
+        "level": "90%"
+      },
+      {
+        "name": "TypeScript / JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "Redux / MUI / TailwindCSS / SCSS",
+        "level": "90%"
+      },
+      {
+        "name": "Firebase / Sanity",
+        "level": "80%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Booking Clone (React JS)",
+        "category": "",
+        "image": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/9634cf4370615.560c988391020.png",
+        "url": "https://hasnibooking.netlify.app/"
+      },
+      {
+        "title": "BestTime (React JS)",
+        "category": "",
+        "image": "data:image/png;base64,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",
+        "url": "https://github.com/mohadmn03/Besttime"
+      },
+      {
+        "title": "Deliveroo Clone (React Native)",
+        "category": "",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATcAAACiCAMAAAATIHpEAAAAYFBMVEUAzLz///8AybgAybe27ObY9vP7//953tV03dNp2s/M8u6F4Nep6eKB4Nbx/PvS8/DB7+rl+fef5t820sRQ1skZz8CT5Nvr+vnf9/Wc5t6x6+XF8OtM1slg2c3o+fik5+ChjvFiAAAGzElEQVR4nO2d7ZqqOgyFMSiKKDgiijLM3P9d7iblUyPiOfs5eOh6f8yAMDy4JqRpmhbPAwAAAAAAAAAAAAAAAAAAAAAAAAAAfxvfJ8PUd/G/g+I8WR6j8jsjgoBvsGiIV9vbdX1KPYj3mnTxyAXCvaRUdPuCbk9ohKG9otsWuikY3/99Tuudq6LbDbr1Me1ltr7lRppzJQ0tFd2O0K2BQ4zwNwkqaYpat0LRbQ3dBCNZeS3irjRxrduXols57e1+CulBESezxyh+PLRIh6/nClqItgirg9qxSe/2c1Bt6tc+qJmmmz/xDX8ItFW0Saxu38qhHzQLAp0VcQJrVGvl0Aq6WbS+lHX+FClHDtCtQtNNgjTaKUd20M1CP4o60pmig3LkDN0samcqZwdHK+VI+PKCjqB6sYXYmxainKa+349BjXxFnkA5kE19u5+DJg+7MTXshXurUd0YhxuaIcbQrUYNN3gUQYvsEPa2bLTn8UmDgSx5i+rHQmTJX/EkJaKGvVfo1qCmwxNSMyXrqW/2g1AfyICQJX+FnhIhLa5DlryLptsaWfJXqE/kDVnyV+gpEa278AXdOqgRbqCFwwnCkC5qSuSmfIYseQ/SdNOaUxSH9FBTIhrIkvdQUyIaCHt7UDhSt++p7/SD4Lo3rbBSA1lygSUrr1stH6ISTH3D00NSkXq4jJVMcDxLbjRL98v8LckEd7Pk/GRudistNhuBm1lyqUgd78wUnCwOSYthZ1bsQ61r1cXNsHdYk8gnj9SOaouTWXI1y9Ziz2k6DocsOz94QSeLQ9QsW4MNMZrqy4PvKdbnZJZcLzy6s7faw0nH4KHbOun9T8aw8/qlrn/rW19F4GSzoGfZWpJo03o0q9vdCKqjWfLRWbYFj8srraubYe/4LBuzOocP7amrWfKxWbZnuFrbq46IjsfZqTJq4dF4Imd10yqMRuNoFOI9KTwajcNjgGrh0Vimvvkp+ReyLd01t1cpkUGc7NNXDKdEBtm62ceyvEiJDOFk6q1Bm/k9Cke79DVqze4YNlPf+bS8kxLp4viA83spkQ5uDmR1KP9ZF3Xq254eysrj9l0vh1lZDJGfbnbveDqUbzXY2ppx/YcC5taDl5Y9jajlQpWlgqyZdxwqt1m5HfMOMVje5eqwwliM4WkuDwv2jsC0tfflq84OK7yNEY/Lpe1Ti1ro9+BAhaO8X5jb+2ANfAAAmB/qC06qz8iH338C/R4OD6ErHc2HnpdtL1i45wmUKwV/PM6wtCsgYSquDuv2UKNQ6ZajG/WUId14GBq5XJ0B3Tw6RZDtAW4sTRe90Y3b0KpprXTzfPI7DW77u7Np/0h2ebvTAPP1Z9ge+2ujWHysJfIoYneWbGTbfhjmq5WX5atcxkf3+eorNce+D8Ficfnla1CR50eZRMPWeeYLbMMq/VvtljNTrl4NL6/trU5I8iyESjde8N6ji53ILFWs1BZlBieSpba/pLr1RlmdlLPDNGmdWZ9XdX5vZJ6Npc3jmu/d6hbYOVlkq6a31C1ZSjsFTJkXdy/QXfV3VsLJXJfkuPuxuslUq9W+jH4kZOvpxtMaTvYvTFDClnYNN0trmbK41GqZFz7/H4LbVRa9LK3YZleMekY1XvK0bfgtnEurm9Gr4F1uJgrq6ibVq1draKkNTcyJvmwQ6xb53DAY+8olmRmIWS7q3cWsxlfZWdkSSf7CS+IpH9e9YX3j6qKebryTEPvDWH6uNnIiCy+6yQW5ck7GUdlyAzot6pdbHGdVrcTuzHY9fZGoP0XtTrejLAMai132yh/OrW5hM9LAkvHzW81nKGc1BMHf344MsILDuokSKZ+xviuQi1rdynrDbm0W9RLv4bx0M/47lpdPpLY95Z+n0FCWYb9dsI/yeSONJrvDoAyrE7NWt0wcndnwCx5S5V15mYq/nderPdk9JcbBn2LbLiTSThjSm+fd62a+e3Gz358b18Iz53lRSHbtcrmexDF7073gdnUn7YwRzve4XZ3TkJet5A1slGUk4mdxESdcyhDRvW6m7bxc7LIqNs7Lky87/6/RrZqEGVfBHNl3RNnLT/pF/zbNnCIOIEicf0V8r1s9877sbDNhV7fO3Afuqvnt6uXhjMyN18KzxnC+2q9O+yrCD45NkmRdqeJ37Sarm4bk22vO8NpVCmLbI63/EfHsOqjefllcU0qjSLJFphu/Kw7HUN5DHEaRsS5zaC/nmt0o2tSv7/w+H4pblPIu/3Fzwcxc8NZYF2XRstjNy9gsVYKoHZeh7mb7s3+k2qPueepZ+ogPAAAAAAAAAAAAAAAAAAAAAAAAAAAA4D/kD0HhQlDoWMRhAAAAAElFTkSuQmCC",
+        "url": "https://github.com/mohadmn03/Deliveroo_Clone"
+      },
+      {
+        "title": "DEMMANE (HTML , SCSS , JAVASCRIPT)",
+        "category": "",
+        "image": "https://thumbs.dreamstime.com/b/orange-abstract-texture-vector-background-can-be-used-cover-design-book-design-poster-cd-cover-website-backgrounds-vector-142617203.jpg",
+        "url": "https://demmane.netlify.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Moha is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jacob Dmn"
+      },
+      {
+        "text": "Learning with Moha has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Med Zinou TOUAMI"
+      }
+    ]
+  }
+}
