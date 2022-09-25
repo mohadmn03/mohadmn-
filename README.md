@@ -14,7 +14,7 @@ This is my personal portfolio where I will be adding new projects as I finish th
 
 👤 **Moha Dmn**
 
-- GitHub: [@mirouhml](https://github.com/mohadmn03)
+- GitHub: [@mohadmn03](https://github.com/mohadmn03)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohadmn03/)
 
 ## Show your support
