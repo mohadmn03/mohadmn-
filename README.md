@@ -4,7 +4,7 @@ This is my personal portfolio where I will be adding new projects as I finish th
 
 ## Live Demo
 
-<a href='https://mohadmnportfolio.netlify.app/' > Click to preview </a>
+# <a href='https://mohadmnportfolio.netlify.app/' > Click to preview </a>
 
 ## Built With
 
